@@ -1,0 +1,123 @@
+div.header{
+    width: 100%;
+    background-color:burlywood ;
+    height: 60px;
+}
+
+div.search{
+    width: 100%;
+    height: 80px;
+    background-color:lightgray;
+    
+}
+
+div.menu{
+    width: 100%;
+    height: 40px;
+    background-color: beige;
+}
+div.slider{
+    width: 100%;
+    height:400px;
+    background-color:cornflowerblue;
+}
+div.specials{
+    width: 100%;
+    height: 150px;
+    background-color: beige;
+}
+div.Incredibles{
+    width: 100%;
+    height: 300px;
+    background-color:crimson;
+}
+div.groceries{
+    width: 100%;
+    height: 100px;
+    background-color:rgb(147, 179, 163);
+}
+div.advertisement-1{
+    width: 100%;
+    height: 250px;
+    background-color:goldenrod;
+}
+div.categories{
+    width: 100%;
+    height: 600px;
+    background-color:aliceblue;
+}
+div.advertisement-2{
+    width: 100%;
+    height: 250px;
+    background-color:goldenrod;
+}
+div.suggestion{
+    width: 100%;
+    height: 400px;
+    background-color:aliceblue;
+}
+div.favourite{
+    width: 100%;
+    height: 200px;
+    background-color:gray;
+}
+div.advertisement-3{
+    width: 100%;
+    height: 250px;
+    background-color:goldenrod;
+}
+div.yourvisits-1{
+    width: 100%;
+    height: 400px;
+    background-color:aliceblue;
+}
+div.digiplus{ 
+    width: 100%;
+    height: 600px;
+    background-color: darkmagenta;
+}
+div.digiclub{ 
+    width: 100%;
+    height: 100px;
+    background-color:steelblue;
+}
+div.yourvisits-2{
+    width: 100%;
+    height: 400px;
+    background-color:aliceblue;
+}
+div.topsales{
+    width: 100%;
+    height: 450px;
+    background-color:lightgray;
+}
+div.selections{
+    width: 100%;
+    height: 900px;
+    background-color: azure;
+}
+div.readables{
+    width: 100%;
+    height: 300px;
+    background-color: gainsboro;
+}
+div.contactus{
+    width: 100%;
+    height: 500px;
+    background-color: aliceblue;
+}
+div.downloadapp{
+    width: 100%;
+    height: 150px;
+    background-color:midnightblue ;
+}
+div.about{
+    width: 100%;
+    height: 350px;
+    background-color:gainsboro ;
+}
+div.brands{
+    width: 100%;
+    height: 200px;
+    background-color:darkgrey ;
+}
